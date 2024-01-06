@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "League Spartan";
+}
+.container{
+    max-width: 1110px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 130px;
+    padding-left: 130px;
+}
+
+header{
+    height: 156px;
+    background-image: url(./Pictures/header-bg.png);
+}
+main{
+    background-color: #EFFAFA;
+    
+}
+
+:root {
+    --main-color: #5CA5A5;
+    --black-color: #2B3939;
+    --grey-color: #7C8F8F;
+}
